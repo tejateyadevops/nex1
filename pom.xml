@@ -22,7 +22,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>arsnapshot</id>
-			<url>localhost:8081/nexus/content/repositories/arsnapshot/</url>
+			<url>http://localhost:8081/nexus/content/repositories/arsnapshot/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
